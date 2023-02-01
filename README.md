@@ -11,6 +11,6 @@ Change the channel id inside the code to the id of the specific text channel you
 Run the bot from the console, leave it open and every 24 hours it will send the new APOD!
 
 # Future Plans
-Will try to allow interaction with the bod from within discord's channels so you can change which channel it sends messages in without editing the code. 
+Will try to allow interaction with the bot from within discord's channels so you can change which channel it sends messages in without editing the code. 
 
 Possibly try to export the running of the bot to an external server, but that seems unnecessary for such a basic bot.
